@@ -17,7 +17,8 @@ To explore the fully interactive dashboard, you will need access to Microsoft Po
 
 ## Snapshot of the Dashboard
 
-![COVID Food Preparation Dashboard Screenshot](![covid_food_prep_dashboard](https://github.com/user-attachments/assets/ed92982f-9ba0-43aa-8813-c5add35e858f))
+![image](https://github.com/user-attachments/assets/33ff9ff9-009a-4d25-ae76-445911345f12)
+
 
 
 ## Purpose
