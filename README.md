@@ -2,6 +2,18 @@
 
 This repository contains the files for an interactive Microsoft Power BI dashboard designed to analyze customer purchasing behavior related to food preparation during 2022.
 
+## Access the Interactive Dashboard
+
+To explore the fully interactive dashboard, you will need access to Microsoft Power BI Desktop.
+
+1. **Download the .pbix file:** Click the following link to download the Power BI dashboard file:
+
+   [COVID Food preparation 2022.pbix](https://github.com/LorenTalete/Power_BI-COVID_Food_Preparation_2022/blob/main/COVID%20Food%20preparation%202022.pbix)
+
+2. **Open in Power BI:** Open the downloaded file using Microsoft Power BI Desktop.
+
+*Alternatively, if this dashboard has been published to the Power BI Service:*
+**Note:**  Access to the Power BI Service dashboard may require appropriate permissions.
 
 ## Snapshot of the Dashboard
 
