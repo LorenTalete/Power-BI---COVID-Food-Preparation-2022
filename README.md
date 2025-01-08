@@ -8,7 +8,7 @@ To explore the fully interactive dashboard, you will need access to Microsoft Po
 
 1. **Download the .pbix file:** Click the following link to download the Power BI dashboard file:
 
-   [COVID Food preparation 2022.pbix](https://github.com/LorenTalete/Power_BI-COVID_Food_Preparation_2022/blob/main/COVID%20Food%20preparation%202022.pbix)
+   [COVID Food preparation 2022.pbix](https://github.com/LorenTalete/Power-BI---COVID-Food-Preparation-2022/blob/main/COVID%20Food%20Preparation%202022.pbix)
 
 2. **Open in Power BI:** Open the downloaded file using Microsoft Power BI Desktop.
 
